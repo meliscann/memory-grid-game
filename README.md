@@ -16,7 +16,7 @@ This project is a memory-based grid game implemented using Java. The game challe
 
 ## 🚀 How to Run
 1. Clone the repository:
-git clone https://github.com/your-username/memory-grid-game.git
+git clone https://github.com/meliscann/memory-grid-game.git
 
 3. Compile the Java program:
 javac MemoryGridGame.java
